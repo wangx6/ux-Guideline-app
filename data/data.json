@@ -1,0 +1,759 @@
+{
+	"elements":[
+		{
+			"cat":"button",
+			"name":".nav-bar",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".container",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"grid",
+			"name":".header",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"grid", 
+			"name":".footer",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".nav-btn",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"button", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"color", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"typography", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".nav-bar",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".container",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"grid",
+			"name":".header",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"grid", 
+			"name":".footer",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".nav-btn",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"button", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"color", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"typography", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".nav-bar",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".container",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"grid",
+			"name":".header",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"grid", 
+			"name":".footer",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".nav-btn",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"button", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"color", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"typography", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".nav-bar",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".container",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"grid",
+			"name":".header",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"grid", 
+			"name":".footer",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".nav-btn",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"button", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"color", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"typography", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".nav-bar",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".container",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"grid",
+			"name":".header",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"grid", 
+			"name":".footer",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".nav-btn",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"button", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"color", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"typography", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},{
+			"cat":"button",
+			"name":".nav-bar",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"button",
+			"name":".container",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"grid",
+			"name":".header",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"grid", 
+			"name":".footer",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".nav-btn",
+			"css":{
+				"width":"100px", "color":"red", "background-color":"#ccc"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"icon",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"button", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"color",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"color", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"typography",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"typography", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".login-submit-btn",
+			"css":{
+				"width":"100px", "color":"#000", "background-color":"#09c"
+			}
+		},
+		{
+			"cat":"container",
+			"name":".save-btn",
+			"css":{
+				"width":"100px", "color":"#fff", "background-color":"green"
+			}
+		},
+		{
+			"cat":"container", 
+			"name":".commit-bet",
+			"css":{
+				"width":"100px", "color":"blue", "background-color":"#887"
+			}
+		}
+	]
+}
